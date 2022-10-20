@@ -3,9 +3,15 @@
 --- TEST CASE
 
 1- "https://trendyol.com/" web sitesine gir
+
 2- Arama kutusuna excel de verilen kelimeyi yaz
+
 3- Arama merceğine tıkla
+
 4- Sol kategorilerden "Kargo Bedava" seç
+
 5- Önerilen sıralamada "En çok değerlendirilen" seç
+
 6- Kargo Bedava ürünler içerisinde “En Çok Değerlendirilen” ürüne tıkla
+
 7- Seçilen ürünü sepete ekleyen otomasyon
